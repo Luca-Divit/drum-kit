@@ -1,0 +1,14 @@
+body {
+  min-height: 100vh;
+  background-image:
+    linear-gradient(to bottom, rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url('../images/stage.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container {
+  margin: 0 auto;
+  min-height: 100vh;
+  background-color: azure;
+}
