@@ -1,5 +1,7 @@
 <h1 align="center">Drum Kit</h1>
 <h3 align="center">Play drums using your keyboard! 🥁</h3>
+<h3>Demo</h3>
+<img src="https://res.cloudinary.com/detwvcqim/image/upload/v1696758011/drum-kit_fbvuil.gif" alt="drum-kit-gif" width="800" >
 <h2>How to use it 🛠️</h2>
 <ol>
   <li><p>You can downlad the files in your computer pressing on the `code` green button</p></li>
